@@ -9,7 +9,7 @@
 <p>
   É o ato de programar, que simplesmente se baseia em captura e tratamentos de dados, depois começa o fluxo de eventos com uma ordem lógica, para gerar um resultado.
   São instruções dadas ao computador para se executar determinadas tarefas ou para solucionar algum problema, utilizando os algoritmos, 
-  seguindo uma lógica de programação junto com uma linguagem de programação, pra o computador compreender.  
+  seguindo uma lógica de programação junto com uma linguagem de programação, para então o computador compreender.  
 </p>
 
 <h2 align="center">🤯 O que é Lógica de Programação?</h2>
@@ -38,11 +38,11 @@
 
 <h2 align="center">✍️Front-end VS Back-end</h2>
 <p>
-  O Front-end chamamos de client-side ou seja lado do cliente, é tudo aquilo que é visivel para o cliente,
+  O Front-end chamamos de client-side, ou seja, lado do cliente, é tudo aquilo que é visivel para o cliente,
   como o design das páginas, tudo que é relacionado ao que o cliente opera.
   </br>
-  O Back-end chamamos de server-side ou seja lado do servidor, onde esta tudo que o usuário não vê,
-  como o banco de dados onde ficam armazenadosos dados, as funcionalidades mais robustas, etc.
+  O Back-end chamamos de server-side, ou seja, lado do servidor, onde esta tudo que o usuário não vê,
+  como o banco de dados onde ficam armazenados os dados, funcionalidades mais robustas, etc.
 </p>
 
 <hr/>
