@@ -12,7 +12,7 @@
 </br>  
   Estou através dele na jornada para me tornar uma desenvolvedora web.🖥️🤓
 <br>
-  Neste repositório estou documentando minha trajetória no curso, deixando meus projetos que venho desenvolvendo ao longo dele. 
+  Neste repositório estou documentando minha trajetória no curso, deixando minhas anotações e meus projetos que venho desenvolvendo ao longo dele. 
 </p>
 
 <h2 align="center">⚒️ Tecnologias Estudadas</h2>
