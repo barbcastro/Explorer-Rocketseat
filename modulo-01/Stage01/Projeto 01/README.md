@@ -8,7 +8,7 @@
    </br>
    Móveis costumizados é apenas uma página web simples para uma empresa fictícia de venda de móveis.
    </br>
-   <a href="https://barbcastro.github.io/singlePage_Projeto01/">
+   <a href="https://main--silly-brioche-5de51e.netlify.app/">
      Acesse o projeto aqui
    </a>
  </p>
