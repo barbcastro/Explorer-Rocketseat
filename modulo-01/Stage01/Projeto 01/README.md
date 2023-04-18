@@ -1,13 +1,17 @@
- <h1 align="center">Rocketseat - Explorer 🚀</h1>
+ <h1 align="center">Móveis Costumizados - Desafio 01 🚀</h1>
  
-<h1>Single Page - Projeto 01</h1>
-
-<img src="images/preview.png"/>
-
-<p align="center">Primeiro projeto proposto no curso Explorer da Rocketseat.</br>
-Móveis costumizados é uma página web simples para uma empresa fictícia de venda de móveis.</br>
-<a href="https://barbcastro.github.io/singlePage_Projeto01/">Acesse o projeto aqui</a>
-</p>
+ <img src="images/preview.png" alt="preview do projeto" height="850"/>
+ 
+ <h2>💻 Desafio:</h2>
+ <p>
+   Primeiro projeto proposto no curso Explorer da Rocketseat.
+   </br>
+   Móveis costumizados é apenas uma página web simples para uma empresa fictícia de venda de móveis.
+   </br>
+   <a href="https://barbcastro.github.io/singlePage_Projeto01/">
+     Acesse o projeto aqui
+   </a>
+ </p>
 
 <h2>🤯 Aprendizados:</h2>
 <ul>
