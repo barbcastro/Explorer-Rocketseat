@@ -1,6 +1,6 @@
 <h1 align="center">Treine.me - Desafio 02 🏋🏽</h1>
  
- <img src="images/previe.png" alt="preview do projeto" height="850"/>
+ <img src="images/previe.jpg" alt="preview do projeto"/>
  
  <h2>💻 Desafio:</h2>
  <p>
