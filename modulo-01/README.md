@@ -27,3 +27,18 @@
      Notes 
   </a>
 </p>  
+<hr/>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/barbcastro.png" width="100px" />
+    </td>
+    <td>
+      <img src="https://github.com/rocketseat-education.png" width="100px" />
+    </td>
+    <td>
+      Feito por <a href="https://github.com/barbcastro">Barbara Castro</a>🙋🏽‍♀️
+      <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.
+    </td>
+  </tr>
+</table>
