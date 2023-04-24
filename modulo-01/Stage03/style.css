@@ -39,13 +39,10 @@ nav ul {
 nav ul li a {
  color: #FFFFFF;
  text-decoration: none;
- opacity: 0.5;
 }
 
 nav ul li a:hover {
   font-weight: bold;
-  
-  opacity: 1;
 }
 
 main {
@@ -81,7 +78,7 @@ section p {
   color: #C2C2C2;
 }
 
-footer {
+footer, footer a {
   margin-bottom: 30px;
   text-align: center;
 
@@ -91,8 +88,10 @@ footer {
 }
 
 footer a {
-  color: #FFFFFF;
   text-decoration: none;
+}
+
+footer a:hover {
   font-weight: bold;
 }
 
@@ -105,6 +104,7 @@ footer .line {
 }
 
 #padlock {
+  margin: 0 20px 20px;
   position: fixed;
   bottom: 0;
   left: 0;
