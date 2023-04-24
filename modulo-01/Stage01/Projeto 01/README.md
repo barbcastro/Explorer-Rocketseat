@@ -1,4 +1,4 @@
- <h1 align="center">Móveis Costumizados - Desafio 01 🚀</h1>
+ <h1 align="center">Móveis Costomizados - Desafio 01 🚀</h1>
  
  <img src="images/preview.png" alt="preview do projeto" height="850"/>
  
