@@ -6,7 +6,7 @@
  <p>
    Primeiro projeto proposto no curso Explorer da Rocketseat.
    </br>
-   Móveis costumizados é apenas uma página web simples para uma empresa fictícia de venda de móveis.
+   Móveis costomizados é apenas uma página web simples para uma empresa fictícia de venda de móveis.
    </br>
    <a href="https://main--silly-brioche-5de51e.netlify.app/">
      Acesse o projeto aqui
