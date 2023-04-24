@@ -1,6 +1,6 @@
 <h1 align="center">Rocket.sect - Desafio 03 🔒</h1>
  
- <img src="images/preview.jpg" alt="preview do projeto"/>
+ <img src="images/preview.png" alt="preview do projeto"/>
  
  <h2>💻 Desafio:</h2>
  <p>
