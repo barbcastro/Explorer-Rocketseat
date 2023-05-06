@@ -27,7 +27,7 @@
 <h2>🎨 Layout do projeto</h2>
 <p>
   Este é o <a href="<p>
-  Este é o <a href="https://www.figma.com/file/dZwREQYzGOFsCjEoObp5Mx/Explorer---Projeto-01-(Copy)?node-id=0%3A1&t=sMfD75Hlfo1V8SKh-0">layout do projeto</a> no Figma.
+  Este é o <a href="https://www.figma.com/file/Kkw6PYZcBHgRm2tXXBh9ca/Explorer-Stage-03-Projeto-01-(Copy)?type=design&node-id=0-1&t=LgBjHtBUpdWsVqzC-0">layout do projeto</a> no Figma.
 </p>
 
 ---
