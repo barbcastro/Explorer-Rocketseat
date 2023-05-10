@@ -1,10 +1,15 @@
 <h1 align="center">Avalie sua Mentoria📋 - Desafio 01 🚀</h1>
 
+<img src="images/preview.png">
 <br/>
 
 ## 📝 O Desafio:
 Criei uma página web de Formulário de avaliação de uma mentoria, que é um formulário fictício para avaliação de uma mentoria. 
 Colocando em prática todos os aprendizados anterior para a criação de formulários📋
+
+<a href="https://avaliesuamentoria.netlify.app/">
+     Acesse o projeto aqui
+   </a>
 
 <br/>
 
