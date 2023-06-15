@@ -97,7 +97,7 @@ ul li span {
   color: #090039;
 }
 
-/* media queries */
+
 @media (min-width: 700px) {
   body {
     padding: 8rem;
